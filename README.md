@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakash817
+- 👋 Hi, I’m @prakash gupta
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full Stack Development(MERN)
 - 📫 How to reach me prakashkgupta817@gmail.com
