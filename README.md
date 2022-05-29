@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
+- 👉 you can get all information by clicking - https://prakash.vercel.app/
 
 - 🔭 I’m currently working on `Something Intresting`.
 
