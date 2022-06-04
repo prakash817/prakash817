@@ -64,7 +64,10 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <a href="https://github.com/prakash817/" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/> </a> <a href="https://twitter.com/prakashgupta817" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/prakash-gupta-pg/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/mr_prakash___25/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  <img alt="Twitter" src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/> </a>
+  <a href="https://twitter.com/prakashgupta817" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
+  <a href="https://www.linkedin.com/in/prakash-gupta-pg/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  
+  <a href="https://prakash-portfolio.vercel.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 🤝 Support Me:
