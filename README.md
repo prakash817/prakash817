@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-- 👉 you can get all information by clicking - <a href="https://prakash.vercel.app/" target = "_blank"> PORTFOLIO </a> 
+- 👉 you can get all information by clicking - <a href="prakash-portfolio.vercel.app" target="_blank"> PORTFOLIO </a> 
 
 - 🔭 I’m currently working on `Something Intresting`.
 
