@@ -70,10 +70,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://prakash-portfolio.vercel.app/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/prakashkgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
 ## 📊 My GitHub Data:
 
 <div align="center">
