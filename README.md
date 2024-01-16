@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-- 👉 you can get all information by clicking - <a href="portfolio link" target="_blank"> PORTFOLIO </a> 
+- 👉 you can get all information by clicking - <a href="http://portfolio-prakash817.vercel.app/" target="_blank"> PORTFOLIO </a> 
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Twitter" src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white"  height="30px"/> </a>
 <!--   <a href="https://twitter.com/prakashgupta817" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> -->
   <a href="https://www.linkedin.com/in/prakash-gupta-pg/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  
-  <a href="portfoliolink" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white"  height="30px"/></a>
+  <a href="http://portfolio-prakash817.vercel.app" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
